@@ -1,0 +1,5 @@
+ extends: 
+  - spectral:oas
+  - https://unpkg.com/@apisyouwonthate/style-guide@1.3.2/dist/ruleset.js
+ rules:
+  info-description: off
