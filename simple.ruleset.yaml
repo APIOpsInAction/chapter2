@@ -15,4 +15,4 @@ rules:
     then:
       function: pattern
       functionOptions:
-        match: '^/v\d/.*$'
+        match: '^/v\d+/.*$'
